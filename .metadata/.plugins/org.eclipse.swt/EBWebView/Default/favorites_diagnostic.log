@@ -27,3 +27,12 @@
 2026-09-08 06:46:22.155: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-08 06:46:22.155: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-09-08 06:46:35.479: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-24 12:39:33.162: [INFO] CurrentProfilePath: C:\Users\prems\Desktop\Major Project\HospitalManagementSystem-FAPS\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 12:39:33.163: [INFO] Profiles total count: 1
+2026-09-24 12:39:33.163: [INFO] Profile: name=Profile 1 path=C:\Users\prems\Desktop\Major Project\HospitalManagementSystem-FAPS\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-08T06:46:33.529Z
+2026-09-24 12:39:33.163: [INFO] LastUsedProfileDir: C:\Users\prems\Desktop\Major Project\HospitalManagementSystem-FAPS\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-24 12:39:33.163: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\prems\Desktop\Major Project\HospitalManagementSystem-FAPS\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-08T06:46:33.529Z
+2026-09-24 12:39:33.163: [INFO] OnDoneLoading sync enabled: 0
+2026-09-24 12:39:33.163: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-24 12:39:33.163: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-24 12:39:33.163: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

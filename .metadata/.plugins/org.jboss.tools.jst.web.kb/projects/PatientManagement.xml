@@ -39,11 +39,11 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring-form.tld" project="BedManagement"/>
+      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring-form.tld" project="StaffManagement"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring.tld" project="BedManagement"/>
+      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring.tld" project="StaffManagement"/>
     </library>
    </libraries>
   </path>
@@ -87,7 +87,10 @@
   <path value="C:/Users/prems/.m2/repository/net/minidev/accessors-smart/2.6.0/accessors-smart-2.6.0.jar"/>
   <path value="C:/Users/prems/.m2/repository/jakarta/annotation/jakarta.annotation-api/3.0.0/jakarta.annotation-api-3.0.0.jar"/>
  </paths>
- <includes/>
+ <validation>
+  <el/>
+ </validation>
  <aliases/>
+ <includes/>
  <uris/>
 </kb-project>
