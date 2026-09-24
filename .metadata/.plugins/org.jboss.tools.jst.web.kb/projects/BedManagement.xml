@@ -39,11 +39,11 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring-form.tld" project="StaffManagement"/>
+      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring-form.tld" project="AppointmentManagement"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring.tld" project="StaffManagement"/>
+      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring.tld" project="AppointmentManagement"/>
     </library>
    </libraries>
   </path>
@@ -88,6 +88,7 @@
   <path value="C:/Users/prems/.m2/repository/jakarta/annotation/jakarta.annotation-api/3.0.0/jakarta.annotation-api-3.0.0.jar"/>
  </paths>
  <validation>
+  <core validator-id="jboss.cdi.core"/>
   <el/>
  </validation>
  <aliases/>
