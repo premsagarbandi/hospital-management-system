@@ -39,11 +39,11 @@
    <libraries>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring-form.tld" project="StaffManagement"/>
+      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring-form.tld" project="PatientManagement"/>
     </library>
     <library class="tld">
      <id class="model-object"
-      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring.tld" project="StaffManagement"/>
+      path="FileSystems/lib-spring-webmvc-7.0.9.jar/meta-inf/spring.tld" project="PatientManagement"/>
     </library>
    </libraries>
   </path>
